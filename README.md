@@ -3,6 +3,7 @@
 A Pen created on CodePen.io. Original URL: [https://codepen.io/saikiran8844/pen/ZEoVwpm](https://codepen.io/saikiran8844/pen/ZEoVwpm).
 
 Given a dictionary D where key is of form YYYY-MM-DD and its corresponding value is an integer, returns a new dictionary D such that:
+
   it's key (type: String) is a Day: [Mon, Tue, Wed, Thu, fri, Sat, Sun]
   corresponding value (type INT) is sum of values on that day
 
