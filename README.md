@@ -11,7 +11,7 @@ Also, if Input Dictionary don't have particular day then Output Dictionary will 
 of that day as the mean of Prev and Next Day
 
 Constrains:
- -Input Dictionary will have at least Mon B SLln
+ -Input Dictionary will have at least Mon & Sun
  - Input Dictionary key is string within thc range [1970-01-01..2100-01-0L]
  - Ard its corresponding value is al. integer within the range [-1,000,000..1,000,000]
 
