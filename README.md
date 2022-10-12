@@ -5,7 +5,8 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/saikiran8844/pen/
 Given a dictionary D where key is of form YYYY-MM-DD and its corresponding value
 is an integer, returns a new dictionary D such that:
 
-l) it's key (type: String) is a Day: [Mon, Tue, Wed, Thu, fri, Sat, Sun] 2) corresponding value (type INT) is sum of values on that day
+l) it's key (type: String) is a Day: [Mon, Tue, Wed, Thu, fri, Sat, Sun]
+2) corresponding value (type INT) is sum of values on that day
 
 Also, if Input Dictionary don't have particular day then Output Dictionary will have value
 of that day as the mean of Prev and Next Day
